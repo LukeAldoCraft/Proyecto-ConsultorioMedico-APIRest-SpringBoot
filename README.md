@@ -14,4 +14,11 @@ vista previa de la parte front ent no agregada en esta parte ya que solo se creo
 
 ![Captura desde 2023-09-29 16-03-20](https://github.com/LukeAldoCraft/Proyecto-ConsultorioMedico-APIRest-SpringBoot/assets/91865442/dd5ec380-5f9b-4918-a3f5-b4978e98d12f)
 
-estas imagenes son ejemplos de consulta para la api y su implementacion ya cuenta con despliegue 
+estas imagenes son ejemplos de consulta para la api y su implementacion ya cuenta con despliegue con Swagger UI = http://localhost:8080/swagger-ui/index.html
+
+![Captura desde 2023-09-29 16-39-03](https://github.com/LukeAldoCraft/Proyecto-ConsultorioMedico-APIRest-SpringBoot/assets/91865442/769b7861-c773-4e14-b1a6-284f7f6569c1)
+
+
+
+![Captura desde 2023-09-29 17-12-14](https://github.com/LukeAldoCraft/Proyecto-ConsultorioMedico-APIRest-SpringBoot/assets/91865442/a3151354-a1a4-4cf1-b485-e6aa87e998bf)
+
